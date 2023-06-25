@@ -6,7 +6,7 @@ function __directory_watch(index, callback, interval) constructor {
 	
 	static close = function() {
 		time_source_stop(self.__source);
-		return directory_watch_close(self.__index);
+		return directory_watch_destroy(self.__index);
 	}
 	
 	static __update = function() {
