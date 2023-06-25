@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+C:\GameMaker\extension\dll\main.cpp(33,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\GameMaker\extension\dll\main.cpp(54,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library ..\project\extensions\Extension\Library.lib and object ..\project\extensions\Extension\Library.exp
+  dll.vcxproj -> C:\GameMaker\extension\project\extensions\Extension\Library.dll
